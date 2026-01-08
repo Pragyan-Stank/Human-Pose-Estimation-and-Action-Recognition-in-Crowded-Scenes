@@ -35,26 +35,6 @@ The system uses **MediaPipe Pose** to detect 33 body landmarks in real time and 
 
 ---
 
-## 📁 Project Structure
-
-```
-pose_estimation/
-│
-├── core/
-│   ├── pose_detector.py     # MediaPipe pose wrapper
-│   ├── pose_math.py         # Angle & geometry calculations
-│
-├── viz/
-│   └── visualizer.py        # Landmark & angle visualization
-│
-├── io/
-│   └── video_stream.py      # Webcam / video input handling
-│
-├── main.py                  # Application entry point
-├── requirements.txt
-└── README.md
-```
-
 Each module has a **single responsibility**, reflecting industry best practices.
 
 ---
