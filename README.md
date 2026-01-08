@@ -111,23 +111,4 @@ Press **`Q`** to exit the video stream.
 
 This structure mirrors how **computer vision pipelines are built in industry**.
 
----
 
-## 🔮 Future Enhancements
-
-- Exercise detection (squats, push-ups, lunges)
-- Rep counting and form validation
-- Pose classification using ML models
-- Mobile app or REST API integration
-- Multi-person pose tracking
-
----
-
-## 📄 License
-
-Intended for educational, research, and prototype use.
-
----
-
-### ⭐ Portfolio Note
-This project demonstrates **engineering discipline**, not just model usage — a key differentiator in technical interviews.
