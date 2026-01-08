@@ -31,7 +31,7 @@ The system uses **MediaPipe Pose** to detect 33 body landmarks in real time and 
 - Modular, reusable components
 - Easily extendable to exercise detection
 
-<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/bdb39473-ca5c-4c9c-b638-ebfb16c871fb" />
+<img width="380" height="380" alt="image" src="https://github.com/user-attachments/assets/bdb39473-ca5c-4c9c-b638-ebfb16c871fb" />
 
 ---
 
